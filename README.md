@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**radoslawix/radoslawix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐞 Nice to see you here 🐞
 
-Here are some ideas to get you started:
+### 🛠️ My Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages & Frameworks**  
+<br/>
+<img src="https://raw.githubusercontent.com/radoslawix/radoslawix/main/assets/icons/csharp-svgrepo-com.svg" alt="C#" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/radoslawix/radoslawix/main/assets/icons/nunit.svg" alt="NUnit" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/radoslawix/radoslawix/main/assets/icons/restsharp_svg.svg" alt="RestSharp" height="48"/>
+<br/><br/>
+
+**Automation & API Testing**  
+<br/>
+<img src="https://raw.githubusercontent.com/radoslawix/radoslawix/main/assets/icons/selenium-svgrepo-com.svg" alt="Selenium" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/radoslawix/radoslawix/main/assets/icons/postman-icon-svgrepo-com.svg" alt="Postman" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/radoslawix/radoslawix/main/assets/icons/api-interface-svgrepo-com.svg" alt="API" height="48"/>
+<br/><br/>
+
+**Databases & Version Control**  
+<br/>
+<img src="https://raw.githubusercontent.com/radoslawix/radoslawix/main/assets/icons/sql-database-generic-svgrepo-com.svg" alt="SQL" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/radoslawix/radoslawix/main/assets/icons/git-svgrepo-com.svg" alt="Git" height="48"/>
+<br/><br/>
+
+**DevOps & Project Management**  
+<br/>
+<img src="https://raw.githubusercontent.com/radoslawix/radoslawix/main/assets/icons/azure-devops-svgrepo-com.svg" alt="Azure DevOps" height="48"/>&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/radoslawix/radoslawix/main/assets/icons/jira-svgrepo-com.svg" alt="Jira" height="48"/>
+
+</div>
+
+ ##
